@@ -10,7 +10,7 @@ import biz.source_code.dsp.filter.IirFilterCoefficients;
 import biz.source_code.dsp.filter.IirFilterDesignFisher;
 
 /**
- * Created by 刘武 on 2016/5/22.
+ * Created by 刘武 on 2016/5/22.222222
  */
 public class DealData implements PreProcessing {
 
